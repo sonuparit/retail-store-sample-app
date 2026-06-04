@@ -105,6 +105,11 @@ The result is a production-oriented platform demonstrating Infrastructure as Cod
 
 ## 📦 Deployment Guide
 
+> [!NOTE]
+> This project currently uses GitHub Secrets for AWS authentication.
+>
+> Future enhancement: GitHub OIDC federation to eliminate long-lived AWS credentials.
+
 ### 1. Prerequisites
 
 | Tool          | Version | Installation                                                                         |
@@ -140,11 +145,6 @@ The result is a production-oriented platform demonstrating Infrastructure as Cod
     ```
 
 3. Setup GitHub Secrets (Required for GitOps)
-
-    > [!NOTE]
-    > This project currently uses GitHub Secrets for AWS authentication.
-    >
-    > Future enhancement: GitHub OIDC federation to eliminate long-lived AWS credentials.
 
     Go to your GitHub repository → **Settings** → **Secrets and variables** → **Actions**
 
