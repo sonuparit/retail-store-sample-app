@@ -1,7 +1,7 @@
-# 🚀 Reverse engineered Terraform & Created GitOps-Driven CI/CD pipeline from scratch
+# 🚀 Reverse engineered (Terraform) & Created GitOps-Driven CI/CD pipeline from scratch
 
 > [!NOTE]
-> This project is based on an existing application that I reverse-engineered and enhanced — [(original repo)](https://github.com/aws-containers/retail-store-sample-app)
+> This project is based on an existing application that I reverse-engineered (Terraform) and enhanced — [(original repo)](https://github.com/aws-containers/retail-store-sample-app)
 >
 > Productionized the same microservices application with observability stack — [(see here)](https://github.com/sonuparit/retail-store-reverse-engineered)
 
