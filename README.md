@@ -1,4 +1,4 @@
-# 🚀 Reverse engineered (Terraform) & Created GitOps-Driven CI/CD pipeline from scratch
+# 🚀 Terraform EKS provisioning & GitOps-Driven CI/CD pipeline from scratch
 
 > [!NOTE]
 > This project is based on an existing application that I reverse-engineered (Terraform) and enhanced — [(original repo)](https://github.com/aws-containers/retail-store-sample-app)
